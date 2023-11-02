@@ -3,7 +3,9 @@
 
 This repository contains a main file and two correlating files with CSV files for analyzing and summarizing CSV data into the Jupyter Notebook file. The directions for the module were to create a jupyter file, including a resources folder (for storing the original CSV file), and using the CSV files to merge and complete a final analysis of cancer drug regimens of the data for this challenge.
 
-**I believe that there is a discrepancy in the original file which I wish to point out. The original file had data stating that male to female ratios were 51% to 49% respectively, which I do agree if the original had used the clean dataframe with the original timepoints (multiple timepoints) in the data. This slightly skews the data and is not entirely correct. If we are summarily counting 248 mice, we must use one mouse ID, eliminating additional timepoints. This data then reflects more accurately as 50.4% to 49.6%, Male to Female respectively. 
+Additionally, the file also has several factors I wish to address here. First, I did not use the basic colors from the notebook when creating my graphs. I instead used specific tones of green, yellow, blue, pink, and red. This was intentional. These are the same hues from my previous homeworks and I believe, such as in the case of Male v. Female mice, it's a better representation of gender than the original plot colors. I realize this is a full portfolio of work and I would like my portfolio to show a congruent use of colors and styles across each of my pieces where possible.
+
+**I also believe that there is a discrepancy in the original file which I wish to point out. The original file had data stating that male to female ratios were 51% to 49% respectively, which I do agree if the original had used the clean dataframe with the original timepoints (multiple timepoints) in the data. This slightly skews the data and is not entirely correct. If we are summarily counting 248 mice, we must use one mouse ID, eliminating additional timepoints. This data then reflects more accurately as 50.4% to 49.6%, Male to Female respectively.** 
 
 ## Results
 
